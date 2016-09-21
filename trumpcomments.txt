@@ -1,4 +1,4 @@
-﻿{ 
+{ 
 	"origin": [
 	"Why does Trump hates women? I mean he has tits himself! XD﻿",
 	"If trump will be president i will eat an World hottest chili﻿",
@@ -43,7 +43,21 @@
 	"Anyone voting for Trump needs an evaluation.",
 	"’Be sure to get out and vote for Mr. Trump’… Yes... and that man is also getting his psychological evaluation...",
 	"I bet $5 that he will be assassinated within a month of presidency",
-	"If Trump becomes president America is fucked."]
+	"If Trump becomes president America is fucked.",
+	"He says he’s the true candidate for the LGBTQ community. I bet he doesn’t even know what LGBTQ stands for…",
+	"He’s the human embodiment of a pile of dog poop on a hot summer day",
+	"If i had a dollar for every time he lied i could buy trump tower",
+	"How can one man be so dumb",
+	"I think his brain is just full of hairspray",
+	"I’m Canadian and I’m disgusted I even have to share the same continent as him.",
+	"I’d give him $1 million dollars if he could even point out Syria on a map",
+	"If a redneck racist had sex with an orange and a corn husk, the end result would be trump",
+	"I wouldn’t shake donald trump’s hand even if he offered me $100,000",
+	"I’d rather listen to Taylor Swift on repeat than ever hear trump’s voice again",
+	"i hate him more than i hate a crying baby on a 12 hour flight",
+	"send him back to hell- i’m sure satan misses his best friend",
+	"this is why therapist's need to stop telling delusion people to get a hobby because they might end up running for president"
+	"if he wins i’m going to join NASA, go into space, jump out of the spaceship, and just float in space for the rest of my life. it beats living on earth with President Trump..."]
 }
 
  
